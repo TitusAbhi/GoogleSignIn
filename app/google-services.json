@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328510210393",
+    "project_id": "synccontacts-13709"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328510210393:android:b4c5a98c84649af4",
+        "android_client_info": {
+          "package_name": "com.titus.synccontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328510210393-e0014jjk19p393dcpshhi4ic2ksarn5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.titus.synccontacts",
+            "certificate_hash": "3CC4D95A5D93FFC5C66FB7A6E2BB9F799C9A95C4"
+          }
+        },
+        {
+          "client_id": "328510210393-72bbjb4emqoh9kd0bk5ir49snthq26b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-pQiF57KRfqPsdC-m6ij9j6kcF7iNVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
